@@ -1,0 +1,15 @@
+{
+  "name": "console-angular",
+  "version": "0.1.0",
+  "description": "tiny package for experemtantion of angular's complicate features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "console"
+  ],
+  "author": "podhmo",
+  "license": "ISC"
+}
