@@ -7,7 +7,7 @@ If so, this package is helpful, maybe.
 ## how to use this
 
 code:
-```
+```javascript
 var ca = require("console-angular");
 
 ca.setup(function(angular, document){
