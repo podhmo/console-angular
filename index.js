@@ -1,8 +1,8 @@
 var setup = require('./src/setup');
-var exposedInjector = require('./src/exposedInjector');
+var context = require('./src/context');
 
 module.exports = {
   setup: setup.setup,
   teardown: setup.teardown,
-  injector: exposedInjector
+  context: context
 };
