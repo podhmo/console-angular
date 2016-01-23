@@ -13,7 +13,7 @@
   "author": "podhmo",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.4.9",
+    "angular": "",
     "benv": "^3.0.0"
   },
   "devDependencies": {

@@ -45,7 +45,7 @@ output:
 
 ## appendix
 
-If you want to find all restrict E directives, you can use context feature(This is a just exposed angular's DI module).
+If you want to find all restrict E directives, you can use context feature(this is a just exposed angular's DI module).
 
 ```javascript
 var ca = require('../');
