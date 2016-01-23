@@ -1,4 +1,4 @@
-var ca = require("../");
+var ca = require('console-angular');
 
 ca.setup(function(angular, document){
   function Directive(){

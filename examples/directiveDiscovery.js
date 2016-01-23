@@ -1,4 +1,5 @@
-var ca = require('../');
+var ca = require('console-angular');
+
 ca.setup(function(angular){
   var context = ca.context(angular);
   var inj = context.injector(["ng"]);
