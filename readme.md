@@ -76,5 +76,27 @@ ca.setup(function(angular){
 ```
 
 ```
-
+restrict E directives.
+- a
+- input
+- textarea
+- form
+- script
+- select
+- style
+- option
+- ngBindTemplate
+- form
+- ngInclude
+- ngPluralize
+- ngSwitch
+- ngTransclude
+- ngPattern
+- ngMinlength
+- ngMaxlength
+- ngMin
+- ngMax
+- ngSrc
+- ngSrcset
+- ngHref
 ```
