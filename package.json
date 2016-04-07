@@ -1,6 +1,6 @@
 {
   "name": "console-angular",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "tiny package for experemtantion of angular's complicate features.",
   "main": "index.js",
   "scripts": {
