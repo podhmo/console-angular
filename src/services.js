@@ -22,7 +22,7 @@ function throwExceptionHandler() {
   };
 }
 
-function register(module){
+function setup(module){
   return module
     .provider('$log', ConsoleLogProvider)
     .factory('$exceptionHandler', throwExceptionHandler)
@@ -32,5 +32,5 @@ function register(module){
 module.exports = {
   ConsoleLogProvider: ConsoleLogProvider,
   throwExceptionHandler: throwExceptionHandler,
-  register: register
+  setup: setup
 };
