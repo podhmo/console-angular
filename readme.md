@@ -26,7 +26,7 @@ ca.setup(function(angular, document){
   }
   Directive.$inject = [];
 
-  var app = angular.module("app", []);
+  var app = angular.module("app", ["console"]);
   app.directive("hello", Directive);
 
   document.body.innerHTML = "<div><hello></hello></div>";
