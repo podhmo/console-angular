@@ -1,6 +1,6 @@
 {
   "name": "console-angular",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "tiny package for experemtantion of angular's complicate features.",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,10 @@
   "author": "podhmo",
   "license": "ISC",
   "dependencies": {
-    "angular": "",
     "benv": "^3.0.0"
+  },
+  "peerDependencies": {
+    "angular": ""
   },
   "repository" :
   {
